@@ -16,4 +16,7 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 
 ## Certificates
 
-You can find all the certificates in the [Certificates Folder]()
+You can find all the certificates in the [Certificates Folder](https://github.com/DavidMartinez16/TensorFlow-Developer-Coursera-Specialization/tree/main/Certificates)
+
+## Specialization Creadted By
+
