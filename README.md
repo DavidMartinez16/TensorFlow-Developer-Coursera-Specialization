@@ -7,7 +7,7 @@ TensorFlow is one of the most in-demand and popular open-source deep learning fr
 
 In this hands-on, four-course Professional Certificate program, you’ll learn the necessary tools to build scalable AI-powered applications with TensorFlow. After finishing this program, you’ll be able to apply your new TensorFlow skills to a wide range of problems and projects. This program can help you prepare for the Google TensorFlow Certificate exam and bring you one step closer to achieving the Google TensorFlow Certificate.
 
-## Specialization Courses
+## Specialization Summary
 
 * Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 * Convolutional Neural Networks in TensorFlow
@@ -20,3 +20,4 @@ You can find all the certificates in the [Certificates Folder](https://github.co
 
 ## Specialization Creadted By
 
+ ![Deep Learning AI](https://user-images.githubusercontent.com/63115543/95002479-2e034200-059a-11eb-9f75-24238e668228.png)
