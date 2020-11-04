@@ -1,7 +1,7 @@
 # TensorFlow Developer Coursera Specialization
 
 
-## About the Specialization
+## About this Specialization
 
 TensorFlow is one of the most in-demand and popular open-source deep learning frameworks available today. The DeepLearning.AI TensorFlow Developer Professional Certificate program teaches you applied machine learning skills with TensorFlow so you can build and train powerful models.
 
@@ -18,6 +18,6 @@ In this hands-on, four-course Professional Certificate program, you’ll learn t
 
 You can find all the certificates in the [Certificates Folder](https://github.com/DavidMartinez16/TensorFlow-Developer-Coursera-Specialization/tree/main/Certificates)
 
-## Specialization Creadted By
+## Specialization Created By
 
  ![Deep Learning AI](https://user-images.githubusercontent.com/63115543/95002479-2e034200-059a-11eb-9f75-24238e668228.png)
